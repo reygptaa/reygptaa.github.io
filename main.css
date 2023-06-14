@@ -144,7 +144,7 @@ section:nth-child(2n + 1) {
     color: grey;
     line-height: 28px;
     font-size: 1.1rem;
-    margin: auto;
+    margin-top: 40px;
 }
 
 
